@@ -1,0 +1,8 @@
+Atalhos Uteis 
+
+- cd: navega nas pastas
+- cd.. : volta para pasta anterior 
+- Ctrl+l : limpa a pasta 
+- -a mostra arquivos ocultos
+- git status- comando para mostrar status do git 
+- git add - adiciona todos os arquivos para o stage
